@@ -17,8 +17,6 @@ export default function Students() {
 
   return (
     <div className="student-list-container">
-      <h1>Öğrenci Profilleri</h1>
-
       <select value={selectedClass} onChange={handleChange}>
         <option value="">Tüm Sınıflar</option>
         {ClassCategories.map((classCategory) => (
