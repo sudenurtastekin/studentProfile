@@ -1,0 +1,353 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f4f8; 
+  color: #333;
+}
+
+li{
+  list-style: none;
+}
+
+button{
+  cursor: pointer;
+}
+
+.container {
+  display: flex; 
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #4A90E2;
+  color: white;
+  padding: 20px;
+  height: 100vh;
+  position: sticky; 
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  padding: 10px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar ul li:hover {
+  background-color: #3a80c3; 
+}
+
+.content {
+  padding: 20px;
+  flex-grow: 1;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 20px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+  color: #4A90E2;
+  margin-bottom: 20px;
+}
+
+.student-list {
+  list-style: none;
+  padding: 0;
+}
+
+.student-item {
+  padding: 15px;
+  background-color: #e9e9e9;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.student-item:hover {
+  background-color: #d3d3d3;
+}
+
+.student-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  border: none;
+  background: none;
+}
+
+.student-link:hover {
+  color: #4A90E2;
+}
+
+.student-profile {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.student-name {
+  color: #4A90E2;
+  text-align: center;
+}
+
+.absence-info {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.absence-info.highlight {
+  color: red;
+}
+
+.back-button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.back-button:hover {
+  background-color: #005bb5;
+}
+
+
+
+
+
+
+.student-detail-container{
+  display: flex;
+}
+
+
+.student-list-container {
+  padding: 40px 20px;
+  background-color: #f0f4f8;
+  border-radius: 10px;
+  max-width: 900px;
+  margin: 0 auto;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.student-list-container h1 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+select {
+  padding: 12px;
+  width: 100%;
+  max-width: 400px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: white;
+  margin-bottom: 20px;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+select:focus {
+  border-color: #4A90E2;
+  background-color: #f7f9fb;
+  outline: none;
+}
+
+.student-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  margin-bottom: 15px;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.student-item:hover {
+  transform: translateY(-5px);
+  background-color: #f7f9fb;
+}
+
+.student-link {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.student-link:hover {
+  color: #4A90E2;
+}
+.attendance-info {
+  padding: 20px;
+  background-color: #eaf6f7;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 20px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.attendance-info h2 {
+  color: #4A90E2;
+  margin-bottom: 15px;
+}
+
+.accordion-content {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.accordion-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.accordion-content li {
+  padding: 12px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  margin-bottom: 8px;
+}
+
+.accordion-content li:nth-child(even) {
+  background-color: #f1f5f9;
+}
+
+
+.alert-warning {
+  margin-top: 15px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #ff9800;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.exam-results-container {
+  padding: 20px;
+  background-color: #f8fafc;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 20px auto;
+  box-shadow: 9px 4px 10px rgba(0, 0, 0, 0.341);
+}
+
+.exam-results-title {
+  color: #4A90E2;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.exam-results-list {
+  list-style: none;
+  padding: 0;
+}
+
+.exam-result-item {
+  padding: 12px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.exam-result-item.low-score {
+  color: red;
+  font-weight: bold;
+}
+
+.exam-result-item:hover {
+  background-color: #f1f5f9;
+}
+
+.no-exam-results {
+  text-align: center;
+  color: #666;
+}
+
+.student-info-container {
+  padding: 20px;
+  background-color: #f8fafc;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 20px auto;
+  box-shadow: 9px 4px 10px rgba(0, 0, 0, 0.341);
+  font-family: 'Arial', sans-serif;
+}
+
+.student-info-title {
+  color: #4A90E2;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.student-info-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.student-info-item strong {
+  color: #333;
+}
+
+.student-info-item:last-child {
+  border-bottom: none; 
+}
+
+.student-info-item span {
+  color: #555;
+}
+
+.student-info-item:hover {
+  background-color: #f1f5f9;
+}
+
+.loading-message {
+  text-align: center;
+  color: #999;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    width: 100%;
+    height: auto;
+  }
+  .attendance-info {
+    padding: 10px;
+  }
+  
+  .attendance-item {
+    font-size: 14px; 
+  }
+
+  .sidebar{
+    width: auto;
+  }
+}

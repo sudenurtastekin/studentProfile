@@ -1,0 +1,1124 @@
+  [
+    {
+      "id": 1,
+      "name": "Sudenur Taştekin",
+      "studentNumber": "123",
+      "email": "sude@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "CSS": "80",
+          "JavaScript": "70",
+          "React": "70",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": false
+        }
+      ],
+      "classId": 3
+    },
+    {
+      "id": 2,
+      "name": "Arda Toraman",
+      "studentNumber": "124",
+      "email": "arda@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "100",
+          "CSS": "98",
+          "JavaScript": "80",
+          "React": "70",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": false
+        }
+      ],
+      "classId": 3
+    },
+    {
+      "id": 3,
+      "name": "Sıla Kara",
+      "studentNumber": "125",
+      "email": "sıla@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "80",
+          "CSS": "98",
+          "JavaScript": "85",
+          "React": "100",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 3
+    },
+    {
+      "id": 4,
+      "name": "Ali Veli",
+      "studentNumber": "131",
+      "email": "ali@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "CSS": "80",
+          "JavaScript": "70",
+          "React": "70",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 1
+    },
+    {
+      "id": 5,
+      "name": "Alper Kaz",
+      "studentNumber": "132",
+      "email": "alper@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "45",
+          "CSS": "45",
+          "JavaScript": "70",
+          "React": "50",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 1
+    },
+    {
+      "id": 6,
+      "name": "Yağmur Varol",
+      "studentNumber": "133",
+      "email": "yagmur@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "CSS": "100",
+          "JavaScript": "100",
+          "React": "100",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 1
+    },
+    {
+      "id": 7,
+      "name": "Ahmet Bel",
+      "studentNumber": "141",
+      "email": "ahmet@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "CSS": "80",
+          "JavaScript": "70",
+          "React": "70",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 3
+    },
+    {
+      "id": 8,
+      "name": "Gökhan Polat",
+      "studentNumber": "208",
+      "email": "gokhan@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "80",
+          "CSS": "70",
+          "JavaScript": "75",
+          "React": "65",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 1
+    },
+    {
+      "id": 9,
+      "name": "Leyla Aslan",
+      "studentNumber": "209",
+      "email": "leyla@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "CSS": "90",
+          "JavaScript": "93",
+          "React": "95",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 1
+    },
+    {
+      "id": 10,
+      "name": "Murat Demir",
+      "studentNumber": "210",
+      "email": "murat@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "70",
+          "CSS": "75",
+          "JavaScript": "60",
+          "React": "55",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 1
+    },
+    {
+      "id": 11,
+      "name": "Büşra Yıldız",
+      "studentNumber": "211",
+      "email": "busra@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "60",
+          "CSS": "50",
+          "JavaScript": "70",
+          "React": "80",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 1
+    },
+    {
+      "id": 12,
+      "name": "Sevda Kaplan",
+      "studentNumber": "212",
+      "email": "sevda@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "85",
+          "CSS": "90",
+          "JavaScript": "92",
+          "React": "94",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 1
+    },
+    {
+      "id": 13,
+      "name": "Aylin Yalçın",
+      "studentNumber": "213",
+      "email": "aylin@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "CSS": "80",
+          "JavaScript": "90",
+          "React": "90",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 3
+    },
+    {
+      "id": 14,
+      "name": "Yasin Candan",
+      "studentNumber": "214",
+      "email": "yasin@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "CSS": "100",
+          "JavaScript": "70",
+          "React": "70",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 3
+    },
+    {
+      "id": 15,
+      "name": "Derya Aydın",
+      "studentNumber": "215",
+      "email": "deryaaydin@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "65",
+          "CSS": "20",
+          "JavaScript": "30",
+          "React": "0",
+          "Next.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 3
+    },
+    {
+      "id": 16,
+      "name": "Ece Yılmaz",
+      "studentNumber": "201",
+      "email": "ece@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "Php": "100",
+          "Java": "5",
+          "Python": "100",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 2
+    },
+    {
+      "id": 17,
+      "name": "Ali Koç",
+      "studentNumber": "202",
+      "email": "ali@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "Php": "80",
+          "Java": "70",
+          "Python": "70",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 2
+    },
+    {
+      "id": 18,
+      "name": "Burak Aydın",
+      "studentNumber": "203",
+      "email": "burak@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "Php": "80",
+          "Java": "70",
+          "Python": "100",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 2
+    },
+    {
+      "id": 19,
+      "name": "Cem Çelik",
+      "studentNumber": "204",
+      "email": "cem@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "Php": "9",
+          "Java": "30",
+          "Python": "100",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 2
+    },
+    {
+      "id": 20,
+      "name": "Derya Arslan",
+      "studentNumber": "205",
+      "email": "derya@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "100",
+          "Php": "100",
+          "Java": "70",
+          "Python": "100",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 2
+    },
+    {
+      "id": 21,
+      "name": "Emre Akman",
+      "studentNumber": "206",
+      "email": "emre@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "95",
+          "Php": "30",
+          "Java": "70",
+          "Python": "0",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 2
+    },
+    {
+      "id": 22,
+      "name": "Fatma Özdemir",
+      "studentNumber": "207",
+      "email": "fatma@mail.com",
+      "phone": "+90 (500) 104 7001",
+      "examResults": [
+        {
+          "HTML": "25",
+          "Php": "80",
+          "Java": "10",
+          "Python": "70",
+          "Node.js": "not finalized"
+        }
+      ],
+      "attendance": [
+        {
+          "date": "2024-09-01",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-02",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-09",
+          "isAttended": false
+        },
+        {
+          "date": "2024-09-10",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-17",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-18",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-25",
+          "isAttended": true
+        },
+        {
+          "date": "2024-09-26",
+          "isAttended": true
+        }
+      ],
+      "classId": 2
+    }
+  ]
