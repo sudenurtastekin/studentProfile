@@ -34,7 +34,7 @@ export default function StudentDetail({ params }) {
           <li onClick={() => setActiveTab('privateNotes')}>Özel Notlar</li>
         </ul>
         <button onClick={() => router.back()} className="back-button">
-          Geri
+          Back
         </button>
       </div>
 
